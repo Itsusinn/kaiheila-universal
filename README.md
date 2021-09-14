@@ -31,3 +31,4 @@ Linux|.AppImage
 ## 免责声明
 
 我们的免责声明随时都可能更新，请以 [此处](https://github.com/kaiheila-community/kaiheila-universal/blob/master/DISCLAIMER.md) 的版本为准。
+
